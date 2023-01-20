@@ -1,0 +1,227 @@
+2023-01-12 12:40:16,078,78,root,DEBUG,This is a debug message
+2023-01-12 12:40:16,079,79,root,INFO,This is an info message
+2023-01-12 12:40:16,079,79,root,INFO,mive
+2023-01-12 12:40:20,632,632,root,DEBUG,This is a debug message
+2023-01-12 12:40:20,633,633,root,INFO,This is an info message
+2023-01-12 12:40:20,633,633,root,INFO,chips
+2023-01-12 12:40:23,208,208,root,DEBUG,This is a debug message
+2023-01-12 12:40:23,209,209,root,INFO,This is an info message
+2023-01-12 12:40:23,209,209,root,INFO,anar
+2023-01-12 12:40:25,722,722,root,DEBUG,This is a debug message
+2023-01-12 12:40:25,723,723,root,INFO,This is an info message
+2023-01-12 12:40:25,723,723,root,INFO,kadoo
+2023-01-12 12:40:29,520,520,root,DEBUG,This is a debug message
+2023-01-12 12:40:29,521,521,root,INFO,This is an info message
+2023-01-12 12:40:29,521,521,root,INFO,search
+2023-01-12 12:40:29,547,547,root,INFO,search
+2023-01-12 12:40:35,287,287,root,DEBUG,This is a debug message
+2023-01-12 12:40:35,288,288,root,INFO,This is an info message
+2023-01-12 12:40:35,288,288,root,INFO,show
+2023-01-12 12:40:46,013,13,root,DEBUG,This is a debug message
+2023-01-12 12:40:46,014,14,root,INFO,This is an info message
+2023-01-12 12:40:46,014,14,root,INFO,remove
+2023-01-12 12:40:53,457,457,root,DEBUG,This is a debug message
+2023-01-12 12:40:53,458,458,root,INFO,This is an info message
+2023-01-12 12:40:53,458,458,root,INFO,remove
+2023-01-12 12:41:02,990,990,root,DEBUG,This is a debug message
+2023-01-12 12:41:02,991,991,root,INFO,This is an info message
+2023-01-12 12:41:02,991,991,root,INFO,help
+2023-01-12 12:41:03,017,17,root,INFO,help
+2023-01-12 12:41:06,151,151,root,DEBUG,This is a debug message
+2023-01-12 12:41:06,151,151,root,INFO,This is an info message
+2023-01-12 12:41:06,152,152,root,INFO,q
+2023-01-13 12:13:05,232,232,root,DEBUG,This is a debug message
+2023-01-13 12:13:05,254,254,root,INFO,This is an info message
+2023-01-13 12:13:05,255,255,root,INFO,sib
+2023-01-13 12:13:07,324,324,root,DEBUG,This is a debug message
+2023-01-13 12:13:07,324,324,root,INFO,This is an info message
+2023-01-13 12:13:07,324,324,root,INFO,anar
+2023-01-13 12:13:11,913,913,root,DEBUG,This is a debug message
+2023-01-13 12:13:11,913,913,root,INFO,This is an info message
+2023-01-13 12:13:11,913,913,root,INFO,hooloo
+2023-01-13 12:14:50,087,87,root,DEBUG,This is a debug message
+2023-01-13 12:14:50,087,87,root,INFO,This is an info message
+2023-01-13 12:14:50,087,87,root,INFO,sib
+2023-01-13 12:14:57,029,29,root,DEBUG,This is a debug message
+2023-01-13 12:14:57,030,30,root,INFO,This is an info message
+2023-01-13 12:14:57,030,30,root,INFO,anar
+2023-01-13 12:15:00,172,172,root,DEBUG,This is a debug message
+2023-01-13 12:15:00,173,173,root,INFO,This is an info message
+2023-01-13 12:15:00,173,173,root,INFO,golaby
+2023-01-13 12:15:03,659,659,root,DEBUG,This is a debug message
+2023-01-13 12:15:03,660,660,root,INFO,This is an info message
+2023-01-13 12:15:03,660,660,root,INFO,hooloo
+2023-01-13 12:15:06,743,743,root,DEBUG,This is a debug message
+2023-01-13 12:15:06,744,744,root,INFO,This is an info message
+2023-01-13 12:15:06,744,744,root,INFO,khiar
+2023-01-13 12:15:10,736,736,root,DEBUG,This is a debug message
+2023-01-13 12:15:10,737,737,root,INFO,This is an info message
+2023-01-13 12:15:10,737,737,root,INFO,ds
+2023-01-13 12:16:06,622,622,root,DEBUG,This is a debug message
+2023-01-13 12:16:06,623,623,root,INFO,This is an info message
+2023-01-13 12:16:06,623,623,root,INFO,"c:/users/emi pc/appdata/local/programs/python/python311/python.exe" "c:/users/emi pc/desktop/mp/shopping.py"
+2023-01-13 12:16:16,884,884,root,DEBUG,This is a debug message
+2023-01-13 12:16:16,884,884,root,INFO,This is an info message
+2023-01-13 12:16:16,884,884,root,INFO,sib
+2023-01-13 12:16:30,742,742,root,DEBUG,This is a debug message
+2023-01-13 12:16:30,742,742,root,INFO,This is an info message
+2023-01-13 12:16:30,742,742,root,INFO,kab
+2023-01-13 12:16:35,534,534,root,DEBUG,This is a debug message
+2023-01-13 12:16:35,534,534,root,INFO,This is an info message
+2023-01-13 12:16:35,535,535,root,INFO,ds
+2023-01-13 12:18:47,514,514,root,DEBUG,This is a debug message
+2023-01-13 12:18:47,514,514,root,INFO,This is an info message
+2023-01-13 12:18:47,514,514,root,INFO,sib
+2023-01-13 12:18:51,447,447,root,DEBUG,This is a debug message
+2023-01-13 12:18:51,447,447,root,INFO,This is an info message
+2023-01-13 12:18:51,447,447,root,INFO,hooloo
+2023-01-13 12:18:54,512,512,root,DEBUG,This is a debug message
+2023-01-13 12:18:54,513,513,root,INFO,This is an info message
+2023-01-13 12:18:54,513,513,root,INFO,anar 
+2023-01-13 12:18:58,900,900,root,DEBUG,This is a debug message
+2023-01-13 12:18:58,901,901,root,INFO,This is an info message
+2023-01-13 12:18:58,901,901,root,INFO,piaz
+2023-01-13 12:19:01,157,157,root,DEBUG,This is a debug message
+2023-01-13 12:19:01,157,157,root,INFO,This is an info message
+2023-01-13 12:19:01,157,157,root,INFO,ds
+2023-01-13 12:20:35,336,336,root,DEBUG,This is a debug message
+2023-01-13 12:20:35,336,336,root,INFO,This is an info message
+2023-01-13 12:20:35,336,336,root,INFO,sib
+2023-01-13 12:20:39,652,652,root,DEBUG,This is a debug message
+2023-01-13 12:20:39,652,652,root,INFO,This is an info message
+2023-01-13 12:20:39,653,653,root,INFO,golaby
+2023-01-13 12:20:41,988,988,root,DEBUG,This is a debug message
+2023-01-13 12:20:41,989,989,root,INFO,This is an info message
+2023-01-13 12:20:41,989,989,root,INFO,hoolo
+2023-01-13 12:20:44,556,556,root,DEBUG,This is a debug message
+2023-01-13 12:20:44,557,557,root,INFO,This is an info message
+2023-01-13 12:20:44,557,557,root,INFO,khiar
+2023-01-13 12:20:47,166,166,root,DEBUG,This is a debug message
+2023-01-13 12:20:47,167,167,root,INFO,This is an info message
+2023-01-13 12:20:47,168,168,root,INFO,anar
+2023-01-13 12:20:53,884,884,root,DEBUG,This is a debug message
+2023-01-13 12:20:53,884,884,root,INFO,This is an info message
+2023-01-13 12:20:53,884,884,root,INFO,help
+2023-01-13 12:20:53,913,913,root,INFO,help
+2023-01-13 12:20:56,945,945,root,DEBUG,This is a debug message
+2023-01-13 12:20:56,946,946,root,INFO,This is an info message
+2023-01-13 12:20:56,946,946,root,INFO,show
+2023-01-13 12:21:00,283,283,root,DEBUG,This is a debug message
+2023-01-13 12:21:00,284,284,root,INFO,This is an info message
+2023-01-13 12:21:00,284,284,root,INFO,ds
+2023-01-13 12:23:04,588,588,root,DEBUG,This is a debug message
+2023-01-13 12:23:04,588,588,root,INFO,This is an info message
+2023-01-13 12:23:04,588,588,root,INFO,"c:/users/emi pc/appdata/local/programs/python/python311/python.exe" "c:/users/emi pc/desktop/mp/shopping.py"
+2023-01-13 12:25:57,013,13,root,DEBUG,This is a debug message
+2023-01-13 12:25:57,013,13,root,INFO,This is an info message
+2023-01-13 12:25:57,013,13,root,INFO,sib
+2023-01-13 12:25:59,006,6,root,DEBUG,This is a debug message
+2023-01-13 12:25:59,006,6,root,INFO,This is an info message
+2023-01-13 12:25:59,006,6,root,INFO,anar
+2023-01-13 12:26:02,316,316,root,DEBUG,This is a debug message
+2023-01-13 12:26:02,318,318,root,INFO,This is an info message
+2023-01-13 12:26:02,318,318,root,INFO,hooloo
+2023-01-13 12:26:04,647,647,root,DEBUG,This is a debug message
+2023-01-13 12:26:04,648,648,root,INFO,This is an info message
+2023-01-13 12:26:04,648,648,root,INFO,kabab
+2023-01-13 12:26:07,570,570,root,DEBUG,This is a debug message
+2023-01-13 12:26:07,571,571,root,INFO,This is an info message
+2023-01-13 12:26:07,571,571,root,INFO,piaz
+2023-01-13 12:26:09,228,228,root,DEBUG,This is a debug message
+2023-01-13 12:26:09,229,229,root,INFO,This is an info message
+2023-01-13 12:26:09,229,229,root,INFO,ds
+2023-01-13 12:27:01,563,563,root,DEBUG,This is a debug message
+2023-01-13 12:27:01,563,563,root,INFO,This is an info message
+2023-01-13 12:27:01,563,563,root,INFO,sib
+2023-01-13 12:27:04,756,756,root,DEBUG,This is a debug message
+2023-01-13 12:27:04,757,757,root,INFO,This is an info message
+2023-01-13 12:27:04,757,757,root,INFO,kabab
+2023-01-13 12:27:08,116,116,root,DEBUG,This is a debug message
+2023-01-13 12:27:08,116,116,root,INFO,This is an info message
+2023-01-13 12:27:08,117,117,root,INFO,show
+2023-01-13 12:27:10,401,401,root,DEBUG,This is a debug message
+2023-01-13 12:27:10,401,401,root,INFO,This is an info message
+2023-01-13 12:27:10,401,401,root,INFO,ds
+2023-01-13 12:29:55,373,373,root,DEBUG,This is a debug message
+2023-01-13 12:29:55,373,373,root,INFO,This is an info message
+2023-01-13 12:29:55,375,375,root,INFO,help
+2023-01-13 12:29:55,402,402,root,INFO,help
+2023-01-13 12:30:17,512,512,root,DEBUG,This is a debug message
+2023-01-13 12:30:17,513,513,root,INFO,This is an info message
+2023-01-13 12:30:17,513,513,root,INFO,sib
+2023-01-13 12:30:20,779,779,root,DEBUG,This is a debug message
+2023-01-13 12:30:20,779,779,root,INFO,This is an info message
+2023-01-13 12:30:20,779,779,root,INFO,hooloo
+2023-01-13 12:30:25,977,977,root,DEBUG,This is a debug message
+2023-01-13 12:30:25,978,978,root,INFO,This is an info message
+2023-01-13 12:30:25,978,978,root,INFO,golaby
+2023-01-13 12:30:27,666,666,root,DEBUG,This is a debug message
+2023-01-13 12:30:27,667,667,root,INFO,This is an info message
+2023-01-13 12:30:27,667,667,root,INFO,anar
+2023-01-13 12:30:29,708,708,root,DEBUG,This is a debug message
+2023-01-13 12:30:29,709,709,root,INFO,This is an info message
+2023-01-13 12:30:29,709,709,root,INFO,kabab
+2023-01-13 12:30:32,198,198,root,DEBUG,This is a debug message
+2023-01-13 12:30:32,199,199,root,INFO,This is an info message
+2023-01-13 12:30:32,199,199,root,INFO, piaz
+2023-01-13 12:30:36,142,142,root,DEBUG,This is a debug message
+2023-01-13 12:30:36,142,142,root,INFO,This is an info message
+2023-01-13 12:30:36,143,143,root,INFO,help
+2023-01-13 12:30:36,169,169,root,INFO,help
+2023-01-13 12:30:42,908,908,root,DEBUG,This is a debug message
+2023-01-13 12:30:42,909,909,root,INFO,This is an info message
+2023-01-13 12:30:42,909,909,root,INFO,ds
+2023-01-13 12:31:45,603,603,root,DEBUG,This is a debug message
+2023-01-13 12:31:45,603,603,root,INFO,This is an info message
+2023-01-13 12:31:45,603,603,root,INFO,show
+2023-01-13 12:31:55,047,47,root,DEBUG,This is a debug message
+2023-01-13 12:31:55,047,47,root,INFO,This is an info message
+2023-01-13 12:31:55,047,47,root,INFO,remove
+2023-01-13 12:32:00,074,74,root,INFO,remove
+2023-01-13 12:32:05,768,768,root,DEBUG,This is a debug message
+2023-01-13 12:32:05,768,768,root,INFO,This is an info message
+2023-01-13 12:32:05,769,769,root,INFO,remoov
+2023-01-13 12:32:13,907,907,root,DEBUG,This is a debug message
+2023-01-13 12:32:13,907,907,root,INFO,This is an info message
+2023-01-13 12:32:13,907,907,root,INFO,remove
+2023-01-13 12:32:18,175,175,root,INFO,remove
+2023-01-13 12:32:39,353,353,root,DEBUG,This is a debug message
+2023-01-13 12:32:39,353,353,root,INFO,This is an info message
+2023-01-13 12:32:39,353,353,root,INFO,out
+2023-01-13 12:32:44,086,86,root,DEBUG,This is a debug message
+2023-01-13 12:32:44,087,87,root,INFO,This is an info message
+2023-01-13 12:32:44,087,87,root,INFO,ds
+2023-01-18 00:48:04,666,666,root,DEBUG,This is a debug message
+2023-01-18 00:48:04,667,667,root,INFO,This is an info message
+2023-01-18 00:48:04,667,667,root,INFO,sib
+2023-01-18 00:48:11,828,828,root,DEBUG,This is a debug message
+2023-01-18 00:48:11,829,829,root,INFO,This is an info message
+2023-01-18 00:48:11,829,829,root,INFO,anar
+2023-01-18 00:48:36,401,401,root,DEBUG,This is a debug message
+2023-01-18 00:48:36,402,402,root,INFO,This is an info message
+2023-01-18 00:48:36,402,402,root,INFO,show
+2023-01-18 00:48:40,624,624,root,DEBUG,This is a debug message
+2023-01-18 00:48:40,625,625,root,INFO,This is an info message
+2023-01-18 00:48:40,625,625,root,INFO,help
+2023-01-18 00:48:40,650,650,root,INFO,help
+2023-01-18 00:48:44,675,675,root,DEBUG,This is a debug message
+2023-01-18 00:48:44,675,675,root,INFO,This is an info message
+2023-01-18 00:48:44,675,675,root,INFO,ds
+2023-01-18 00:53:36,574,574,root,DEBUG,This is a debug message
+2023-01-18 00:53:36,575,575,root,INFO,This is an info message
+2023-01-18 00:53:36,575,575,root,INFO,apple
+2023-01-18 00:55:15,341,341,root,DEBUG,This is a debug message
+2023-01-18 00:55:15,342,342,root,INFO,This is an info message
+2023-01-18 00:55:15,342,342,root,INFO,ds
+2023-01-18 00:55:25,685,685,root,DEBUG,This is a debug message
+2023-01-18 00:55:25,686,686,root,INFO,This is an info message
+2023-01-18 00:55:25,686,686,root,INFO,q
+2023-01-19 01:36:15,397,397,root,DEBUG,This is a debug message
+2023-01-19 01:36:15,444,444,root,INFO,This is an info message
+2023-01-19 01:36:15,444,444,root,INFO,sib
+2023-01-19 01:36:18,914,914,root,DEBUG,This is a debug message
+2023-01-19 01:36:18,915,915,root,INFO,This is an info message
+2023-01-19 01:36:18,916,916,root,INFO,ananr
+2023-01-19 01:36:23,726,726,root,DEBUG,This is a debug message
+2023-01-19 01:36:23,727,727,root,INFO,This is an info message
+2023-01-19 01:36:23,727,727,root,INFO,q
