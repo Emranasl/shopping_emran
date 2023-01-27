@@ -2,7 +2,14 @@
 import os
 import logging 
 from dataclasses import dataclass
+from enum import Enum
 #defin function for
+class EXIT_COMMANDS(Enum):
+    exit = "exit"
+    ex = "ex"
+    q = "q"
+    quit = "quit"
+    ex_key = 'ex_key'
 EXIT_COMMANDS = ["q", "quit", "ex", "exit"]
 shopping_list = list()
 @dataclass
@@ -14,7 +21,6 @@ class charity:
     def Inventory_charge(self):
         if _inventory < 20:
             _inventory += 500
-
 ch1 = charity('john', 'makenzi', 1000)
 ch2 = charity('jan', 'kawely', 1100)
 ch3 = charity('nik', 'sualmon', 800)
@@ -34,7 +40,6 @@ def discount(name):
 def beautify_list(shopp_list):
     for item in shopp_list:
         print(f"> {item} ")
-
 #defin function show for help
 def show_help():
     print("enter 'quit' to exit the app and see your list")
@@ -46,7 +51,6 @@ def show_help():
 def add_item(shopp_list, item):
     shopp_list.append(item)
     return shopp_list
-
 #defin function for remove item from list
 def remove_item(shopp_list, item):
     if item not in shopp_list:
@@ -61,11 +65,8 @@ def show_search():
             print(f"search True , {item}")
         else:
             print("search_false")
-
-
 def clear_screen():
     return os.system("cls")
-
 def calculate(item,myDict):
     # global inventory
     if item in myDict:
@@ -76,12 +77,29 @@ def calculate(item,myDict):
         print(f'{item} not in shop')
     if ch1._inventory <= 10:
         print('Please increase your inventory')
-
+users = {
+    'sepehr':'123456',
+    'emran':'456789',
+    'mohammad': '987654'
+}
+enter_username = input('please enter your username: ')
+enter_password = input('please entar your password: ')
+while enter_username not in users or users[enter_username] != enter_password:
+    print('your username or password is wrong!')
+    enter_username = input('enter your usename again: ')
+    enter_password = input('enter your password again: ')
+print('you loged in !')
+ex_key = False
 while True:
-    item = input('please add your list : ').casefold()
+    item = input('please add your list : ').strip().casefold()
+    for com in EXIT_COMMANDS:
+        if item == com:
+            ex_key = True
+    if ex_key is True:
+        break    
     try:
         item in EXIT_COMMANDS
-    except exiterror:
+    except :
         print('you exit of program')
         logging.error
     #input your item
@@ -90,10 +108,10 @@ while True:
     logging.info(item)
     clear_screen()
     #define exit situation
-    if item in EXIT_COMMANDS:
-        beautify_list(shopping_list)
-        break
-    elif item == 'ds':
+    # if item in EXIT_COMMANDS:
+    #     beautify_list(shopping_list)
+    #     break
+    if item == 'ds':
         (discount(['discount : ','Ball', 'tennis rocket', 'swimming glasses','Freshener', 'Fishing hooks', 'tennis table']))
     #define show situation
     elif item == "show":
