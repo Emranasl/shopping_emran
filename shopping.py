@@ -107,10 +107,7 @@ while True:
     logging.info('This is an info message')
     logging.info(item)
     clear_screen()
-    #define exit situation
-    # if item in EXIT_COMMANDS:
-    #     beautify_list(shopping_list)
-    #     break
+    # define iidiscount
     if item == 'ds':
         (discount(['discount : ','Ball', 'tennis rocket', 'swimming glasses','Freshener', 'Fishing hooks', 'tennis table']))
     #define show situation
